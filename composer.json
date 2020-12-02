@@ -22,7 +22,8 @@
     "require":
     {
         "php": "^7.2",
-        "ext-json": "*"
+        "ext-json": "*",
+        "composer/package-versions-deprecated": "^1.11" 
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5",
