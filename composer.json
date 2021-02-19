@@ -1,6 +1,6 @@
 {
     "name": "plume-solution/scenario",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "type": "library",
     "description": "An automation library similar to IFTTT that you can use in your webapp",
     "keywords": [
