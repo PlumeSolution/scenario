@@ -1,10 +1,13 @@
 <?php
 
+// "cakephp/cakephp": "^2.10.20 <3.0"
+
 require '../vendor/autoload.php';
 
 use PlumeSolution\Scenario\Scenario;
 use PlumeSolution\Scenario\ScenarioRepositoryInterface;
 use PlumeSolution\Scenario\Processor;
+use Cake\Core\App;
 
 class ScenarioRepository implements ScenarioRepositoryInterface{
 
